@@ -6,9 +6,48 @@ FishLarvaeBase (originally named LarvalBase) presents trait datasets compiled by
 
 **Public version: [larvalbase.ingevision.cloud](https://larvalbase.ingevision.cloud)**
 
-The datasets are private and cannot be shared publicly. The public version shows the structure of the website with an empty database. The source code is not published here.
+The public version shows a sample of eight species with their real data and photographs. The full datasets are private and cannot be shared publicly, and the source code is not published here.
 
 ![Home page](docs/screenshots/home.png)
+
+## Gallery
+
+Post-flexion larvae and early juveniles of the eight species in the public sample, as shown on the website. Each photograph is credited to its source.
+
+<table>
+<tr>
+<td width="50%" align="center"><img src="docs/gallery/amphiprion-ocellaris-1.jpg" width="100%" alt="Amphiprion ocellaris"><br><sub><i>Amphiprion ocellaris</i> (clown anemonefish) · © Baensch (2026)</sub></td>
+<td width="50%" align="center"><img src="docs/gallery/amphiprion-ocellaris-2.jpg" width="100%" alt="Amphiprion ocellaris"><br><sub><i>Amphiprion ocellaris</i> (clown anemonefish) · © Baensch (2026)</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="docs/gallery/chromis-viridis-1.jpg" width="100%" alt="Chromis viridis"><br><sub><i>Chromis viridis</i> (blue-green chromis) · © Current study (ADLIFISH 1)</sub></td>
+<td width="50%" align="center"><img src="docs/gallery/chromis-viridis-2.jpg" width="100%" alt="Chromis viridis"><br><sub><i>Chromis viridis</i> (blue-green chromis) · © Current study (ADLIFISH 1)</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="docs/gallery/dascyllus-trimaculatus-1.jpg" width="100%" alt="Dascyllus trimaculatus"><br><sub><i>Dascyllus trimaculatus</i> (threespot dascyllus) · © Current study (ADLIFISH 1)</sub></td>
+<td width="50%" align="center"><img src="docs/gallery/dascyllus-trimaculatus-2.jpg" width="100%" alt="Dascyllus trimaculatus"><br><sub><i>Dascyllus trimaculatus</i> (threespot dascyllus) · © Current study (ADLIFISH 1)</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="docs/gallery/dicentrarchus-labrax-1.jpg" width="100%" alt="Dicentrarchus labrax"><br><sub><i>Dicentrarchus labrax</i> (European seabass) · © Lecaillon et al. (2012)</sub></td>
+<td width="50%" align="center"><img src="docs/gallery/dicentrarchus-labrax-2.jpg" width="100%" alt="Dicentrarchus labrax"><br><sub><i>Dicentrarchus labrax</i> (European seabass) · © Lenfant et al. (2022)</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="docs/gallery/pagrus-major-1.jpg" width="100%" alt="Pagrus major"><br><sub><i>Pagrus major</i> (red seabream) · © Ulsan samplings (2025)</sub></td>
+<td width="50%" align="center"><img src="docs/gallery/pagrus-major-2.jpg" width="100%" alt="Pagrus major"><br><sub><i>Pagrus major</i> (red seabream) · © Ulsan samplings (2025)</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="docs/gallery/rhabdosargus-sarba-1.jpg" width="100%" alt="Rhabdosargus sarba"><br><sub><i>Rhabdosargus sarba</i> (goldlined seabream) · © Connell (2012)</sub></td>
+<td width="50%" align="center"><img src="docs/gallery/rhabdosargus-sarba-2.jpg" width="100%" alt="Rhabdosargus sarba"><br><sub><i>Rhabdosargus sarba</i> (goldlined seabream) · © Connell (2012)</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="docs/gallery/sparus-aurata-1.jpg" width="100%" alt="Sparus aurata"><br><sub><i>Sparus aurata</i> (gilthead seabream) · © Lenfant et al. (2022)</sub></td>
+<td width="50%" align="center"><img src="docs/gallery/sparus-aurata-2.jpg" width="100%" alt="Sparus aurata"><br><sub><i>Sparus aurata</i> (gilthead seabream) · © Lenfant et al. (2022)</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="docs/gallery/stegastes-partitus-1.jpg" width="100%" alt="Stegastes partitus"><br><sub><i>Stegastes partitus</i> (bicolor damselfish) · © Ruiz et al. (2024)</sub></td>
+<td width="50%" align="center"><img src="docs/gallery/stegastes-partitus-2.jpg" width="100%" alt="Stegastes partitus"><br><sub><i>Stegastes partitus</i> (bicolor damselfish) · © Valdez-Moreno et al. (2010)</sub></td>
+</tr>
+</table>
 
 ## Who it is for
 
@@ -22,15 +61,19 @@ The datasets are private and cannot be shared publicly. The public version shows
 
 **Search and filters.** A sidebar searches species by scientific or common name, with synonyms matched automatically, and browses the taxonomy as a tree (order, family, genus, species). The list can be filtered by trait availability, by biogeographic province on a map, and by adult ecosystem (marine, euryhaline, freshwater) and habitat (benthic, pelagic).
 
-![Filters](docs/screenshots/filters.png)
+![Photograph library of a family](docs/screenshots/family-gallery.png)
 
 **Species pages.** For each species: photographs with their source, growth curves, then the traits grouped by life stage (egg and incubation, pre-flexion, flexion, metamorphosis, settlement, vertical position, swimming speed, pelagic juveniles, rafting). Each quantitative trait is shown against the values of the same genus, family and order, so that a species without data can still be placed in context. The page also shows the adult distribution by province, a map of settlement sampling sites, and the list of references.
+
+![Species page: photographs, adult distribution and traits](docs/screenshots/species.png)
+
+![Species page: trait cards](docs/screenshots/species-growth.png)
 
 **Family pages and photograph library.** Galleries of specimen photographs by family, with uncertain, genus-level and family-level identifications marked separately, filterable by province on a map.
 
 **Trait pages.** One page per trait with a map of species coverage by province and a description of the variable.
 
-![Trait page](docs/screenshots/trait.png)
+![Photograph library](docs/screenshots/gallery.png)
 
 **Downloads.** Exports at several levels: all traits of a species, one section of a species page (optionally widened to the genus, family or order), all species of a family or of a province, or one trait filtered by province. Exports include the reference of each record.
 
