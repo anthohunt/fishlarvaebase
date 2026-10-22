@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Yolk-sac larva - body with large yolk -->
+  <ellipse cx="10" cy="14" rx="6" ry="4" />
+  <path d="M16 14 Q20 14 22 12" />
+  <path d="M16 14 Q20 14 22 16" />
+  <circle cx="6" cy="13" r="1" fill="currentColor" />
+</svg>
